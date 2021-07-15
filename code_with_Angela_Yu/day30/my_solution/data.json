@@ -1,0 +1,10 @@
+{
+    "amzon": {
+        "email": "@gmail.com",
+        "password": "momo"
+    },
+    "facebook": {
+        "email": "@gmail.com",
+        "password": "meow"
+    }
+}
